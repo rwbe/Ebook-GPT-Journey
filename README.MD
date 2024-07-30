@@ -19,13 +19,13 @@ O objetivo é criar um ebook digital utilizando ferramentas de IA. Todos os prom
 | **Ação**    | **Prompt**                                                                                                                                                                                                                                                                                                                   |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Título**  | Crie 5 títulos para um eBook sobre SQL, que combinem referências ao universo de Harry Potter com o conceito de magia nos dados. O título deve ser curto, conciso e intrigante, capturando a essência do aprendizado de SQL de forma mágica e envolvente.                                                             |
-| **Conteúdo**| Gere um texto para e-book com o título "SQL na Plataforma 9¾: Magia nos Dados". **Regras:** <br> > Use uma linguagem simples e acessível. <br> > Inclua exemplos de aplicações sempre que possível. <br> > Mantenha os textos explicativos breves e diretos. <br> > Organize o conteúdo com títulos e subtítulos claros. |
+| **Conteúdo**| Gere um texto para e-book com o título "A Câmara SQL - Segredos de Dados". **Regras:** <br> > Use uma linguagem simples e acessível. <br> > Inclua exemplos de aplicações sempre que possível. <br> > Mantenha os textos explicativos breves e diretos. <br> > Organize o conteúdo com títulos e subtítulos claros. |
 
 **Openart:**
 
 | **Ação**    | **Prompt**                                                                                                                             |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| **Título**  | Crie uma cena onde a Plataforma 9¾ se funde com um banco de dados mágico, onde trilhas se transformam em linhas e colunas de uma tabela. Imagine varinhas mágicas executando consultas, feitiços transformando dados em gráficos e relatórios, com o Castelo de Hogwarts ao fundo. |
+| **Título**  | Crie uma cena onde o Harry realiza pesquisas em frente a Hogwarts. Imagine varinhas mágicas executando consultas, feitiços transformando dados em gráficos e relatórios, com o Castelo de Hogwarts ao fundo. |
 
 ## 🚀 Recursos
 
