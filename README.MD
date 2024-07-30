@@ -1,48 +1,39 @@
+# 📚 Projeto EBOOK Gerado por I.A.s
 
-# Projeto EBOOK Gerado por I.A.s
+> ⚠️ **Nota Importante:** Este repositório foi criado como parte do desafio do curso *Fundamentos de IA para Devs*, especificamente a atividade de *Criando um Ebook com ChatGPT & MidJourney* oferecido pela plataforma [DIO](https://dio.me) em colaboração com o Santander.
 
+O objetivo é criar um ebook digital utilizando ferramentas de IA. Todos os prompts empregados neste projeto estão listados abaixo.
 
- >⚠️**NOTE:** Este é o repositório desenvolvido para o desafio de conclusão do curso Criando um Ebook com ChatGPT & MidJourney disponibilizado pela plataforma  [DIO](https://dio.me) em parceria com Santander
+🔗 **Leia o Ebook Aqui:** [📕 Clique para abrir o PDF](https://github.com/rwbe/Ebook-GPT-Journey/blob/main/A%20C%C3%A2mara%20SQL%20-%20Segredos%20de%20Dados.pdf)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts utilizados na contrução desse projeto seguem abaixo.
+## 🛠️ Tecnologias Utilizadas
 
-<a href="https://github.com/edilaniaboliveira/Criando-E-Book-com-IA/blob/main/resultados/SQL%20na%20Plataforma%209%C2%BE.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 👩‍💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
+- [ChatGPT](https://chat.openai.com/)
 - [Openart](https://openart.ai/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 💢 Prompts
+## 💬 Prompts Utilizados
 
+**ChatGPT:**
 
-ChatGPT：
+| **Ação**    | **Prompt**                                                                                                                                                                                                                                                                                                                   |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**  | Crie 5 títulos para um eBook sobre SQL, que combinem referências ao universo de Harry Potter com o conceito de magia nos dados. O título deve ser curto, conciso e intrigante, capturando a essência do aprendizado de SQL de forma mágica e envolvente.                                                             |
+| **Conteúdo**| Gere um texto para e-book com o título "SQL na Plataforma 9¾: Magia nos Dados". **Regras:** <br> > Use uma linguagem simples e acessível. <br> > Inclua exemplos de aplicações sempre que possível. <br> > Mantenha os textos explicativos breves e diretos. <br> > Organize o conteúdo com títulos e subtítulos claros. |
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 5 título para um eBook sobre SQL, que combine referências ao universo de Harry Potter com o conceito de magia nos dados. O título deve ser curto, conciso e intrigante, capturando a essência do aprendizado de SQL de maneira mágica e envolvente.                                                        |
-| conteúdo | Gere um texto para e-book sobre SQL, com titulo SQl na Plataforma 9¾: Magia nos Dados {REGRAS} >Use linguagem simples e acessível.>Inclua exemplos de aplicações sempre que possível. >Os textos explicativos devem ser breves e diretos. >Separe o texto por títulos de capítulos e subtítulos, organizando o conteúdo de forma clara e estruturada. |
+**Openart:**
 
+| **Ação**    | **Prompt**                                                                                                                             |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**  | Crie uma cena onde a Plataforma 9¾ se funde com um banco de dados mágico, onde trilhas se transformam em linhas e colunas de uma tabela. Imagine varinhas mágicas executando consultas, feitiços transformando dados em gráficos e relatórios, com o Castelo de Hogwarts ao fundo. |
 
-Openart：
+## 🚀 Recursos
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | Create a scenario where Platform 9¾ merges with a magical database, where the tracks transform into rows and columns of a table, and Hogwarts students are replaced by SQL queries coming to life. Picture elements such as magic wands executing queries, spells turning data into charts and reports, and Hogwarts Castle looming in the background.
+- Conteúdo gerado com ChatGPT
+- Imagens criadas com Openart
 
+## 📂 Materiais
 
+- Material em PDF, contendo o conteúdo do Ebook
 
-
-
- |
-
-## 📢 Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Openart
-
-## 📚🖋️ Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `resultados`
+---
